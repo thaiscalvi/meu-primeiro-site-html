@@ -1,12 +1,13 @@
-## 🌐 Acesse o site
 
-Você pode visualizar o projeto online [clicando aqui!](https://thaiscalvi.github.io/meu-primeiro-site-html/)
-<br>
 
 # Meu Primeiro Site com HTML 🌐
 
 Este projeto representa o **início da minha jornada como desenvolvedora web**!  
 Foi feito com foco em aprender e praticar os conceitos fundamentais do **HTML**.
+
+## 🌐 Acesse o site
+
+Você pode visualizar o projeto online [clicando aqui!](https://thaiscalvi.github.io/meu-primeiro-site-html/)
 
 ## 📚 Sobre o Projeto
 
